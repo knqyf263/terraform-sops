@@ -34,7 +34,7 @@ output "do-something2" {
 ## Install
 
 ``` shell
-go get github.com/carlpett/terraform-sops
+go get github.com/knqyf263/terraform-sops
 mkdir -p ~/.terraform.d/plugins
 ln -s $GOPATH/bin/terraform-sops $HOME/.terraform.d/plugins/terraform-provider-sops
 ```

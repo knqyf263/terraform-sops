@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/carlpett/terraform-sops/sops"
+	"github.com/knqyf263/terraform-sops/sops"
 
 	"github.com/hashicorp/terraform/plugin"
 )
